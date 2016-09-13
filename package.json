@@ -5,7 +5,11 @@
   "description": "A clean theme that gets out of your way",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "clean",
+    "white",
+    "light",
+    "minimal"
   ],
   "repository": "https://github.com/atom-community/ui-theme-template",
   "license": "MIT",
